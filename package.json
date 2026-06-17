@@ -23,7 +23,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tylergould/handlebars-jest.git"
+    "url": "git+https://github.com/scitech/handlebars-jest.git"
+  },
+  "homepage": "https://github.com/scitech/handlebars-jest#readme",
+  "bugs": {
+    "url": "https://github.com/scitech/handlebars-jest/issues"
   },
   "author": "Tyler Gould <tg@tylergould.net>",
   "license": "MIT",
